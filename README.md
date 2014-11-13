@@ -18,6 +18,7 @@ The UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Huma
 The source data for this project can be found here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Using This Script
+
 The script assumes that you have accessed the link with the data and downloaded the relevant files into your working directory.
 
 The relevant files are:
@@ -31,6 +32,7 @@ The relevant files are:
 	-	activity_labels.txt
 
 Project Summary
+
 The project creates one R script called run_analysis.R that does the following. 
 	1	Merges the training and the test sets to create one data set.
 	2	Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -42,4 +44,5 @@ The project creates one R script called run_analysis.R that does the following.�
 
 
 Additional Information
+
 Additional information about the variables, data and transformations are available in the CodeBook.MD file.
