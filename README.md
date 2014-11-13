@@ -6,6 +6,7 @@ Getting and Cleaning Data Project
 Repository for the submission of the course project for the Johns Hopkins Coursera course Getting and Cleaning Data.
 
 Overview
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
 This project requires student to source and download data for the Human Activity Recognition Using Smartphones Project.   Thereafter, take time to understand and tidy the data before joining the data together into one dataset.  The complete data set is analysed to pull-out data on the mean & standard deviation before performing calculating the mean of the mean and standard deviations for each activity performed by each of the participants.  
@@ -16,7 +17,7 @@ The UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Huma
 
 The source data for this project can be found here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Making Using This Script
+Using This Script
 The script assumes that you have accessed the link with the data and downloaded the relevant files into your working directory.
 
 The relevant files are:
